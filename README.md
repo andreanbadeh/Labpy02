@@ -37,3 +37,5 @@ print("Nilai Akhir :",akhir)
 print("\nNilai Huruf :",huruf)
 print("Keterangan :",keterangan)
 ````
+
+Sialan gakmood gua ngerjain , padahal gampang biji kuda

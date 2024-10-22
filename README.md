@@ -38,4 +38,4 @@ print("\nNilai Huruf :",huruf)
 print("Keterangan :",keterangan)
 ````
 
-Sialan gakmood gua ngerjain , padahal gampang biji kuda
+Sialan gakmood gua ngerjain , padahal gampang ini biji kuda

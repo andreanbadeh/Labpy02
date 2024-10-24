@@ -92,3 +92,5 @@ print("Keterangan :",keterangan)
 ````
 
 Fungsi `Print()` ini akan mencetak Variable-Variable program tersebut
+Hasil output
+![gambar](https://github.com/andreanbadeh/Labpy02/blob/53a36e5b1616da396b3f5514538346e2759889ab/Image/Screenshot%20From%202024-10-24%2021-01-58.png)

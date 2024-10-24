@@ -10,7 +10,7 @@ Matkul: Bahasa Pemrograman
 # Soal latihan
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/f2ee036ad9f00134b2fdb34c85445e84a3559dcb/Screenshot%20From%202024-10-22%2010-49-34.png)
 
-# Latihan 1
+# Menentukan Nilai Akhir
 ```python
 nama = input("Masukkan nama:")
 uts = input("Masukkan nilai UTS:")

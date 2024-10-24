@@ -169,3 +169,20 @@ if a+b == c or b+c == a or c+a == b:
 else:
     print("SALAH")
 ````
+Dalam Python mengevaluasi beberapa kondisi dan mengembalikan True jika salah satu kondisinya benar.
+
+```Python
+a = int(input("Masukkan bilangan A: "))
+b = int(input("Masukkan bilangan B: "))
+c = int(input("Masukkan bilangan C: "))
+````
+Program meminta pengguna untuk memasukkan tiga bilangan `(a, b, dan c)`.
+
+```python
+if a+b == c or b+c == a or c+a == b:
+    print("BENAR")
+else:
+    print("SALAH")
+````
+Bagian ini memeriksa tiga kondisi menggunakan operator logika `or`, jika salah satu dari kondisi di atas terpenuhi, program akan mencetak "BENAR", 
+Jika tidak ada satu pun dari kondisi yang terpenuhi, maka blok `else` akan dijalankan, dan program akan mencetak "SALAH".

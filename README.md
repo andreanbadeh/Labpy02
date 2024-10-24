@@ -10,7 +10,9 @@ Matkul: Bahasa Pemrograman
 Penggunaan struktur kondisi menggunakan statement `if`, Konsep pemrograman yang memungkinkan program untuk mengambil keputusan berdasarkan kondisi atau pernyataan tertentu. Struktur seleksi kondisi yang umum digunakan dalam Python
 
 if: Digunakan untuk mengevaluasi suatu kondisi. Jika kondisi tersebut benar (True)
+
 else: Digunakan untuk menentukan apa yang terjadi jika kondisi 'if' adalah salah (False)
+
 elif: digunakan untuk mengevaluasi beberapa kondisi. Jika kondisi 'if' pertama salah, Python akan mengevaluasi kondisi 'elif'. Anda bisa memiliki beberapa 'elif'
 
 # Soal latihan

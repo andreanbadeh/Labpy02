@@ -96,3 +96,33 @@ Fungsi `Print()` ini akan mencetak Variable-Variable program tersebut
 Hasil output
 
 ![gambar](https://github.com/andreanbadeh/Labpy02/blob/53a36e5b1616da396b3f5514538346e2759889ab/Image/Screenshot%20From%202024-10-24%2021-01-58.png)
+
+# Menampilkan Status Gaji Karyawan
+```Python
+gaji = int(input("Masukkan gaji:"))
+berkeluarga = (False, True)[input("Sudah berkeluarga? (Y/T)") == "Y"]
+punya_rumah = (False, True)[input("Punya rumah? (Y/T)") == "Y"]
+
+
+if gaji > 3000000:
+    print ("Gaji sudah diatas UMR")
+    if berkeluarga:
+        print ("Wajib ikutan asuransi dan menabung untuk pensiun")
+    else:
+        print ("Tidak perlu ikutan asuransi")
+    if punya_rumah:
+        print ("wajib bayar pajak rumah")
+
+    else:
+        print ("tidak wajib bayar pajak rumah")
+else:
+    print ("Gaji belum UMR")
+````
+Struktur Kondisi Ini menggunakan desision `if, `elif`, dan `else`
+
+```Python
+gaji = int(input("Masukkan gaji:"))
+````
+
+Inputan ini akan memasukan angka Gaji, Karna memiliki fungsi `integer`
+

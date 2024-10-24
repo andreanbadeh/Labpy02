@@ -139,3 +139,17 @@ if berkeluarga:
 ````
 Jika angka gaji lebih dari 3 juta maka Output yang akan keluar "Gaji sudah diatas UMR", dan jika tidak Output yang keluar "Tidak perlu ikutan asuransi"
 
+```Python
+if punya_rumah:
+        print ("wajib bayar pajak rumah")
+
+    else:
+        print ("tidak wajib bayar pajak rumah")
+````
+Jika Memiliki rumah `Output` yang keluar "Wajib bayar Pajak", jika tidak `output` yang keluar "Tidak wajib bayar pajak"
+
+```Python
+else:
+    print ("Gaji belum UMR")
+````
+Jika gaji pengguna tidak lebih dari 3 juta, program akan mencetak "Gaji belum UMR".

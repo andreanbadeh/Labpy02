@@ -185,4 +185,4 @@ else:
     print("SALAH")
 ````
 Bagian ini memeriksa tiga kondisi menggunakan operator logika `or`, jika salah satu dari kondisi di atas terpenuhi, program akan mencetak "BENAR", 
-Jika tidak ada satu pun dari kondisi yang terpenuhi, maka blok `else` akan dijalankan, dan program akan mencetak "SALAH".
+ Jika tidak ada satu pun dari kondisi yang terpenuhi, maka blok `else` akan dijalankan, dan program akan mencetak "SALAH".

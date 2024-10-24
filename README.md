@@ -123,6 +123,19 @@ Struktur Kondisi Ini menggunakan desision `if, `elif`, dan `else`
 ```Python
 gaji = int(input("Masukkan gaji:"))
 ````
+Program meminta pengguna memasukkan gaji dengan fungsi `input()`
 
-Inputan ini akan memasukan angka Gaji, Karna memiliki fungsi `integer`
+```Python
+berkeluarga = (False, True)[input("Sudah berkeluarga? (Y/T)") == "Y"]
+punya_rumah = (False, True)[input("Punya rumah? (Y/T)") == "Y"]
+````
+Inputan ini menggunakan fungsi `string` yang dimasukan berupa Huruf, dan `(False, True)` ini adalah fungsi pemilihan Y atau T, supaya tidak menggunakan if dilanjutan program tersbut
+
+```Python
+if berkeluarga:
+        print("Wajib ikutan asuransi dan menabung untuk pensiun")
+    else:
+        print("Tidak perlu ikutan asuransi")
+````
+Jika angka gaji lebih dari 3 juta maka Output yang akan keluar "Gaji sudah diatas UMR", dan jika tidak Output yang keluar "Tidak perlu ikutan asuransi"
 

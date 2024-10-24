@@ -18,7 +18,7 @@ elif : digunakan untuk mengevaluasi beberapa kondisi. Jika kondisi `if` pertama 
 # Soal latihan
 ![gambar](https://github.com/andreanbadeh/Labpy02/blob/19b4a2a541275b622b9e9e3880e4f1d67f5d0ee8/Image/Screenshot%20From%202024-10-24%2020-34-23.png)
 
-# Menentukan Nilai Akhir
+# Latihann1
 ```python
 nama = input("Masukkan nama:")
 uts = input("Masukkan nilai UTS:")
@@ -97,7 +97,7 @@ Hasil output
 
 ![gambar](https://github.com/andreanbadeh/Labpy02/blob/53a36e5b1616da396b3f5514538346e2759889ab/Image/Screenshot%20From%202024-10-24%2021-01-58.png)
 
-# Menampilkan Status Gaji Karyawan
+# Latihann2
 ```Python
 gaji = int(input("Masukkan gaji:"))
 berkeluarga = (False, True)[input("Sudah berkeluarga? (Y/T)") == "Y"]

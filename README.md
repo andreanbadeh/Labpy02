@@ -19,7 +19,7 @@ elif : digunakan untuk mengevaluasi beberapa kondisi. Jika kondisi `if` pertama 
 ![gambar](https://github.com/andreanbadeh/Labpy02/blob/19b4a2a541275b622b9e9e3880e4f1d67f5d0ee8/Image/Screenshot%20From%202024-10-24%2020-34-23.png)
 
 # Menentukan Nilai Akhir
-`python
+```python
 nama = input("Masukkan nama:")
 uts = input("Masukkan nilai UTS:")
 uas = input("Masukkan nilai UAS:")
@@ -45,3 +45,13 @@ print("Nilai Akhir :",akhir)
 print("\nNilai Huruf :",huruf)
 print("Keterangan :",keterangan)
 ````
+
+Untuk menentukan nilai akhir pada Python, Anda bisa menggunakan pernyataan `return` untuk menandai akhir fungsi atau Menggunakan fungsi `print()` dan menentukan nilai yang akan dikembalikan. Pernyataan `return` dapat mengembalikan berbagai jenis data, seperti `integer`, `float`, `string`, `list`, `dictionary`, dan fungsi lainnya.
+
+```python
+nama = input("Masukkan nama:")
+uts = input("Masukkan nilai UTS:")
+uas = input("Masukkan nilai UAS:")
+tugas = input("Masukkan nilai Tugas:")
+````
+Fungsi `input()` adalah fungsi untuk menerima masukan dari pengguna dalam bentuk string, 

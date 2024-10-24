@@ -186,3 +186,7 @@ else:
 ````
 Bagian ini memeriksa tiga kondisi menggunakan operator logika `or`, jika salah satu dari kondisi di atas terpenuhi, program akan mencetak "BENAR", 
  Jika tidak ada satu pun dari kondisi yang terpenuhi, maka blok `else` akan dijalankan, dan program akan mencetak "SALAH".
+
+Hasil output
+
+![gambar](https://github.com/andreanbadeh/Labpy02/blob/d8ce1dc85a0b9d6be31b9beb4807cfc671de17d1/Image/Screenshot%20From%202024-10-24%2021-43-48.png)

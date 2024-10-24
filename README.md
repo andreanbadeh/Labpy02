@@ -137,7 +137,7 @@ if berkeluarga:
     else:
         print("Tidak perlu ikutan asuransi")
 ````
-Jika angka gaji lebih dari 3 juta maka Output yang akan keluar "Gaji sudah diatas UMR", dan jika tidak Output yang keluar "Tidak perlu ikutan asuransi"
+Jika angka gaji lebih dari 3 juta maka Output yang akan keluar "Gaji sudah diatas UMR", dan jika tidak `Output` yang keluar "Tidak perlu ikutan asuransi"
 
 ```Python
 if punya_rumah:
@@ -153,3 +153,19 @@ else:
     print ("Gaji belum UMR")
 ````
 Jika gaji pengguna tidak lebih dari 3 juta, program akan mencetak "Gaji belum UMR".
+
+Hasil output
+
+![gambar]()
+
+# Menggunakan kondisi or dengan menginputkan 3 bilangan
+```Python
+a = int(input("Masukkan bilangan A: "))
+b = int(input("Masukkan bilangan B: "))
+c = int(input("Masukkan bilangan C: "))
+
+if a+b == c or b+c == a or c+a == b:
+    print("BENAR")
+else:
+    print("SALAH")
+````

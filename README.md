@@ -284,3 +284,58 @@ Code program tersebut:
 
 # Program kalkulator sederhana
 ![gambar](https://github.com/andreanbadeh/Labpy02/blob/e5c4003cbb820d9875a5e7ae0053af58ef5d122c/Image/Screenshot%20From%202024-10-25%2007-25-56.png)
+```pyhton
+# Fungsi untuk kalkulator sederhana
+def kalkulator():
+    # Meminta input dari pengguna
+    angka1 = float(input("Masukkan angka pertama: "))
+    angka2 = float(input("Masukkan angka kedua: "))
+    operator = input("Masukkan operator (+, -, *, /): ").strip()
+
+    # Menghitung hasil berdasarkan operator yang dipilih
+    if operator == "+":
+        hasil = angka1 + angka2
+    elif operator == "-":
+        hasil = angka1 - angka2
+    elif operator == "*":
+        hasil = angka1 * angka2
+    elif operator == "/":
+        if angka2 != 0:
+            hasil = angka1 / angka2
+        else:
+            print("Error: Pembagian dengan nol tidak diperbolehkan!")
+            return
+    else:
+        print("Error: Operator tidak valid!")
+        return
+
+    # Menampilkan hasil
+    print(f"Hasil: {hasil}")
+
+# Memanggil fungsi
+kalkulator()
+````
+Program kalkulator sederhana dalam Python adalah proyek yang baik untuk pemula dan programmer tingkat lanjut. Program ini memungkinkan pengguna untuk melakukan operasi matematika seperti penjumlahan, pengurangan, perkalian, dan pembagian.
+
+```python
+angka1 = float(input("Masukkan angka pertama: "))
+angka2 = float(input("Masukkan angka kedua: "))
+operator = input("Masukkan operator (+, -, *, /): ").strip()
+````
+Pengguna diminta memasukkan angka pertama dan angka kedua, yang kemudian dikonversi menjadi tipe float agar bisa menerima bilangan desimal, Pengguna diminta memasukkan operator aritmatika, yaitu salah satu dari + (penjumlahan), - (pengurangan), * (perkalian), atau / (pembagian). Fungsi strip() digunakan untuk menghapus spasi yang mungkin tidak sengaja dimasukkan.
+
+```python
+if operator == "+":
+    hasil = angka1 + angka2
+elif operator == "-":
+    hasil = angka1 - angka2
+elif operator == "*":
+    hasil = angka1 * angka2
+elif operator == "/":
+    if angka2 != 0:
+        hasil = angka1 / angka2
+    else:
+        print("Error: Pembagian dengan nol tidak diperbolehkan!")
+        return
+````
+

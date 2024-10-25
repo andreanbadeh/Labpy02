@@ -349,4 +349,12 @@ print(f"Hasil: {hasil}")
 kalkulator()
 ````
 Jika pengguna memasukkan operator yang tidak dikenali (bukan `+, -, *, atau /`), Setelah operasi berhasil dijalankan, hasil perhitungan akan ditampilkan kepada pengguna
+
+Hasil program tersebut:
+
+![gambar](https://github.com/andreanbadeh/Labpy02/blob/37d0a9c76c964b3ed643bccb5447a24c433bba7b/Image/Screenshot%20From%202024-10-25%2008-24-32.png)
+
+Code program tersebut:
+
+![gambar](
  

@@ -194,4 +194,6 @@ Hasil output
 # Latihan3
 # Program tiket bioskop
 
-![gambar]()
+![gambar](https://github.com/andreanbadeh/Labpy02/blob/6942999a26dab6f76408be80cc7de75c5f8f5f05/Image/Screenshot%20From%202024-10-25%2007-25-48.png)
+
+

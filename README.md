@@ -246,3 +246,23 @@ status_member = input("Apakah Anda memiliki kartu member? (ya/tidak): ").strip()
 ````
 Pengguna diminta untuk memasukkan tipe tiket yang mereka inginkan, bisa "reguler" atau "VIP", Pengguna juga diminta untuk menjawab apakah mereka memiliki kartu member, dengan pilihan "ya" atau "tidak"
 
+```python
+if tipe_tiket == "reguler":
+    harga_tiket = harga_reguler
+elif tipe_tiket == "vip":
+    harga_tiket = harga_vip
+else:
+    print("Tipe tiket tidak valid!")
+    return
+````
+Jika tipe tiket adalah "reguler", harga tiket akan diatur menjadi harga_reguler (Rp50.000), Jika tipe tiket adalah "VIP", harga tiket akan diatur menjadi harga_vip (Rp100.000), Jika tipe tiket yang dimasukkan tidak valid, fungsi akan menampilkan pesan error dan menghentikan proses
+
+```python
+if status_member == "ya":
+    total_harga = harga_tiket * (1 - diskon_member)
+elif status_member == "tidak":
+    total_harga = harga_tiket
+else:
+    print("Status member tidak valid!")
+    return
+````

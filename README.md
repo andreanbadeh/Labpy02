@@ -281,3 +281,6 @@ Hasil program tersebut:
 Code program tersebut:
 
 ![gambar](https://github.com/andreanbadeh/Labpy02/blob/d31c13bbda997074f38ed61dd1b3371475b72680/Image/Screenshot%20From%202024-10-25%2008-00-54.png)
+
+# Program kalkulator sederhana
+![gambar](https://github.com/andreanbadeh/Labpy02/blob/e5c4003cbb820d9875a5e7ae0053af58ef5d122c/Image/Screenshot%20From%202024-10-25%2007-25-56.png)

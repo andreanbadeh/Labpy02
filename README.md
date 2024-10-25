@@ -276,6 +276,6 @@ Setelah menghitung total harga, anda dapat langsung menjalankan fungsinya
 
 Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/77e4110d4d2f63477a60547dabd3f604685cdc5c/Image/Screenshot%20From%202024-10-25%2007-53-49.png)
+![gambar](https://github.com/andreanbadeh/Labpy02/blob/0f98f3510cceada4aaa8bf575442a8458fc47d81/Image/Screenshot%20From%202024-10-25%2007-58-51.png)
 
 

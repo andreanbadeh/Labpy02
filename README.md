@@ -278,4 +278,6 @@ Hasil program tersebut:
 
 ![gambar](https://github.com/andreanbadeh/Labpy02/blob/0f98f3510cceada4aaa8bf575442a8458fc47d81/Image/Screenshot%20From%202024-10-25%2007-58-51.png)
 
+Code program tersebut:
 
+![gambar](https://github.com/andreanbadeh/Labpy02/blob/d31c13bbda997074f38ed61dd1b3371475b72680/Image/Screenshot%20From%202024-10-25%2008-00-54.png)

@@ -266,3 +266,10 @@ else:
     print("Status member tidak valid!")
     return
 ````
+Jika pengguna adalah member `(status_member == "ya")`, harga tiket akan dikurangi diskon 20%, Jika pengguna bukan member `(status_member == "tidak")`, harga tiket tetap sama tanpa pengurangan, Jika input untuk status member tidak valid, misalnya selain "ya" atau "tidak", fungsi akan menampilkan pesan error dan menghentikan eksekusi
+
+```python
+print(f"Total harga yang harus dibayar: Rp{total_harga:.2f}")
+hitung_harga_tiket()
+````
+Setelah menghitung total harga, anda dapat langsung menjalankan fungsinya

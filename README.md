@@ -273,6 +273,7 @@ print(f"Total harga yang harus dibayar: Rp{total_harga:.2f}")
 hitung_harga_tiket()
 ````
 Setelah menghitung total harga, anda dapat langsung menjalankan fungsinya
+
 Hasil program tersebut:
 
 ![gambar](https://github.com/andreanbadeh/Labpy02/blob/77e4110d4d2f63477a60547dabd3f604685cdc5c/Image/Screenshot%20From%202024-10-25%2007-53-49.png)

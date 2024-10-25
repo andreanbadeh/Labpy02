@@ -354,11 +354,7 @@ Hasil program tersebut:
 
 ![gambar](https://github.com/andreanbadeh/Labpy02/blob/37d0a9c76c964b3ed643bccb5447a24c433bba7b/Image/Screenshot%20From%202024-10-25%2008-24-32.png)
 
-Aku menyukaimu hingga aku lupa kalo 
-
-kamu juga mencintai orang lain.
-
 Code program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/0526a517b0800641722ddb98e66113387616f183/Image/Screenshot%20From%202024-10-25%2008-24-49.png)
+![gambar](https://github.com/andreanbadeh/Labpy02/blob/4803b880131b59042363f2f0655068b8e3438b89/Image/Kalku.png)
  

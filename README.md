@@ -356,5 +356,5 @@ Hasil program tersebut:
 
 Code program tersebut:
 
-![gambar](
+![gambar](https://github.com/andreanbadeh/Labpy02/blob/0526a517b0800641722ddb98e66113387616f183/Image/Screenshot%20From%202024-10-25%2008-24-49.png)
  

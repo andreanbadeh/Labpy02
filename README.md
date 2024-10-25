@@ -338,4 +338,5 @@ elif operator == "/":
         print("Error: Pembagian dengan nol tidak diperbolehkan!")
         return
 ````
-
+Jika operator adalah `+`, maka fungsi akan menjumlahkan kedua angka `(angka1 + angka2)`, Jika operator adalah `-`, maka fungsi akan mengurangi angka pertama dengan angka kedua `(angka1 - angka2)`, 
+Jika operator adalah `*`, maka fungsi akan mengalikan angka pertama dengan angka kedua `(angka1 * angka2)`, Jika operator adalah `/`, maka fungsi akan membagi angka pertama dengan angka kedua `(angka1 / angka2)`. Namun, sebelum melakukan pembagian, fungsi memastikan bahwa angka kedua `(angka2)` tidak bernilai nol, karena pembagian dengan nol tidak valid dan akan menyebabkan error.

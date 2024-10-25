@@ -190,3 +190,8 @@ Bagian ini memeriksa tiga kondisi menggunakan operator logika `or`, jika salah s
 Hasil output
 
 ![gambar](https://github.com/andreanbadeh/Labpy02/blob/d8ce1dc85a0b9d6be31b9beb4807cfc671de17d1/Image/Screenshot%20From%202024-10-24%2021-43-48.png)
+
+# Latihan3
+# Program tiket bioskop
+
+![gambar]()

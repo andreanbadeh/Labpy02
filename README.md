@@ -282,6 +282,10 @@ Code program tersebut:
 
 ![gambar](https://github.com/andreanbadeh/Labpy02/blob/c058ac1876eb09c3636a47edd05c0df544c7b668/Image/Biskop.png)
 
+Dan ini flowchart nya
+
+![gambar](https://github.com/andreanbadeh/Labpy02/blob/6478a017cad461f2f5d5a1b6931d4ac7004497dd/Image/tiket%20biskop.png)
+
 # Program kalkulator sederhana
 ![gambar](https://github.com/andreanbadeh/Labpy02/blob/e5c4003cbb820d9875a5e7ae0053af58ef5d122c/Image/Screenshot%20From%202024-10-25%2007-25-56.png)
 ```pyhton
@@ -357,4 +361,7 @@ Hasil program tersebut:
 Code program tersebut:
 
 ![gambar](https://github.com/andreanbadeh/Labpy02/blob/4803b880131b59042363f2f0655068b8e3438b89/Image/Kalku.png)
- 
+
+Dan ini flowchart nya
+
+![gambar](https://github.com/andreanbadeh/Labpy02/blob/6478a017cad461f2f5d5a1b6931d4ac7004497dd/Image/Screenshot%202024-10-26%20051738.png)
